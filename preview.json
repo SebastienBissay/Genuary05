@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"MIN_WIDTH":1,"STROKE_COLOR":{"red":15.0,"green":15.0,"blue":15.0,"alpha":255.0},"MAX_WIDTH":5,"MIN_HEIGHT":1,"MAX_DEPTH":15,"WIDTH":2025,"ANGLE":0.7853982,"HEIGHT":2025,"BACKGROUND_COLOR":{"red":245.0,"green":245.0,"blue":245.0,"alpha":255.0},"MARGIN":202,"SEED":20250105,"MAX_HEIGHT":5,"DARK_PROBABILITY":0.1,"MIN_DEPTH":1,"FILL_COLOR":{"red":55.0,"green":55.0,"blue":55.0,"alpha":255.0},"SCALE":10}}
